@@ -1,1 +1,1 @@
-# CelesteMod
+# Hugman's Celeste Mods

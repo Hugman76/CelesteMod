@@ -1,1 +1,1 @@
-# CelesteMods
+# CelesteMod

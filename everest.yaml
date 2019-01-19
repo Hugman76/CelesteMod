@@ -1,0 +1,5 @@
+- Name: Hugman's Mods
+  Version: 1.0
+  Dependencies:
+    - Name: Everest
+      Version: 1.779.0

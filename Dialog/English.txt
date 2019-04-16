@@ -1,3 +1,4 @@
 Hugman_64=Hugman's Chapters
-Hugman_64_Underground=Underground
-Hugman_64_Underground_4=Before the Aquatic Area
+Hugman_64_underground=Underground
+Hugman_64_underground_4=Before the Aquatic Area
+Hugman_64_underground_6=After the Aquatic Area

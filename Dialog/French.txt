@@ -1,3 +1,4 @@
 Hugman_64=Chapitres d'Hugman
-Hugman_64_Underground=Souterrain
-Hugman_64_Underground_4=Avant la zone aquatique
+Hugman_64_underground=Souterrain
+Hugman_64_underground_4=Avant la zone aquatique
+Hugman_64_underground_6=Après la zone aquatique
